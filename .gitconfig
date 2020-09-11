@@ -18,7 +18,8 @@
     remote = origin
     merge = refs/heads/master
 [gdif]
-    ignore = *.gdio.diff
+    ignore = notebook.ipynb
+    ignore = test.sh
 [deploy]
 	host = localhost
 	path = ~/myproject/git/AI/mwouts/jupytext
