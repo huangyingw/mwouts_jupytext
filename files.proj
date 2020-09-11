@@ -93,6 +93,7 @@
 "./rsync.files"
 "./setup.cfg"
 "./setup.py"
+"./test.sh"
 "./tests/conftest.py"
 "./tests/notebooks/R/simple_r_script.R"
 "./tests/notebooks/R_spin/knitr-spin.R"
